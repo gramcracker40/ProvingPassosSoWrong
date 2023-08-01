@@ -1,3 +1,5 @@
+# Note: Must have powershell, perl, python installed and added to your PATH
+
 ## Below command will run the 3 scripts 50 times each and then display the average runtime. 
 python parser_runner.py 50
 
